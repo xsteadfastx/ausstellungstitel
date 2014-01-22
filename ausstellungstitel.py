@@ -16,7 +16,7 @@ part_1 = ['tell me', 'too much', 'selected', 'individual', 'white', 'black',
 part_2 = ['glass', 'change', 'frame', 'love', 'realistic', 'planetary',
           'nature', 'american', 'european', 'secret', 'fiction', 'hands',
           'repeat', 'state', 'horror', 'light', 'nobody', 'other', 'hidden',
-          'missing', 'wear']
+          'missing', 'wear', 'winning', 'failing']
 
 part_3 = ['positions', 'minimalism', 'order', 'action', 'paintings',
           'adventures', 'landscape', 'visitors', 'pattern', 'pistols',
