@@ -21,7 +21,7 @@ part_2 = ['glass', 'change', 'frame', 'love', 'realistic', 'planetary',
 part_3 = ['positions', 'minimalism', 'order', 'action', 'paintings',
           'adventures', 'landscape', 'visitors', 'pattern', 'pistols',
           'formats', 'suprematism', 'sculptures', 'restrospective', 'images',
-          'archives', 'pieces', 'estate', 'together', 'objects', 'file',
+          'archive', 'pieces', 'estate', 'together', 'objects', 'file',
           'cabinet', 'eyes', 'talent', 'strings', 'centuries', 'projections']
 
 
